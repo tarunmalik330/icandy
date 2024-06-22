@@ -9,7 +9,7 @@
 }
 
 .background-image {
-  background-image: url("../images/png/background-img.png");
+  background-image: url("../images/webp/background-img.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -42,7 +42,7 @@
   flex-direction: column;
 }
 .background-image div h1 {
-  background-image: url("../images/png/heading-bg.png");
+  background-image: url("../images/webp/heading-bg.webp");
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
